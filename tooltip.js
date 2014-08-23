@@ -1,6 +1,6 @@
 /* v1.0.0, http://git.io/tooltip */
 
-(function() {
+document.addEventListener("DOMContentLoaded", function() {
 	'use strict';
 
 	var options = {
@@ -34,4 +34,4 @@
 			this.title = window.titl;
 		}
 	}
-})();
+});
