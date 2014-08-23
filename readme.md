@@ -1,4 +1,4 @@
-__tooltip.js__, [demo](#)
+__tooltip.js__, [demo](http://jsfiddle.net/iqbalperkasa/jmx9d23r/show/)
 
 ----
 
