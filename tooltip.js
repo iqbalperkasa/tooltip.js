@@ -1,4 +1,4 @@
-/* v1.0.0, http://git.io/tooltip */
+/* v1.0.1, http://git.io/tooltip */
 
 document.addEventListener("DOMContentLoaded", function() {
 	'use strict';
