@@ -1,4 +1,4 @@
-/* v1.0.1, http://git.io/tooltip */
+/* v1.0.2, http://git.io/tooltip */
 
 document.addEventListener("DOMContentLoaded", function() {
 	'use strict';
@@ -19,7 +19,6 @@ document.addEventListener("DOMContentLoaded", function() {
 			window.titl = this.title;
 			this.removeAttribute('title');
 			var rect = this.getBoundingClientRect();
-			console.log(rect);
 			var tooltip = document.createElement('div');
 			tooltip.innerHTML += window.titl;
 			tooltip.id = 'tooltip-show';
